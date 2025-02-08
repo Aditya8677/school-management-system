@@ -1,11 +1,6 @@
 ## CloudSchool
 
-[![Codeship Status for hrshadhin/school-management-system](https://app.codeship.com/projects/09010350-b97f-0136-1477-5a7589b245e6/status?branch=master)](https://app.codeship.com/projects/312233)
-[![license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![php](https://img.shields.io/badge/php-7.2-brightgreen.svg?logo=php)](https://www.php.net)
-[![laravel](https://img.shields.io/badge/laravel-6.x-orange.svg?logo=laravel)](https://laravel.com)
 
-```
                        _____  _                    _   _____        _                    _ 
                       / ____|| |                  | | / ____|      | |                  | |
                      | |     | |  ___   _   _   __| || (___    ___ | |__    ___    ___  | |
@@ -37,6 +32,12 @@ Another School Management System build with Laravel and PHP 7
 - [Issues](#issues)
 - [License](#license)
 
+[![Codeship Status for hrshadhin/school-management-system](https://app.codeship.com/projects/09010350-b97f-0136-1477-5a7589b245e6/status?branch=master)](https://app.codeship.com/projects/312233)
+[![license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![php](https://img.shields.io/badge/php-7.2-brightgreen.svg?logo=php)](https://www.php.net)
+[![laravel](https://img.shields.io/badge/laravel-6.x-orange.svg?logo=laravel)](https://laravel.com)
+
+```
 ## Have a query
 
 [:arrow_up: Back to top](#index)
